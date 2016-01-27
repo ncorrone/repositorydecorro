@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test
+0+0=toto full cycle again, t'as compris
+sdjklfsf
+>>>>>>> f93a1336035c0cc4b09dfa5c41cff27259b265bd
